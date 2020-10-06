@@ -4,6 +4,7 @@
 # TEAM
 
     Jason Taylor jason@git.training @awesomejt
+    New person on the team 
 
 # THANKS
 
